@@ -3850,6 +3850,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@types/netmask@npm:2.0.3":
+  version: 2.0.3
+  resolution: "@types/netmask@npm:2.0.3"
+  checksum: 0f7a94fef4a154bd4294ef7286c15f88827b0209ace68349f03755ce3c2c7b276d44974b1548aa2c683a27bfb66cff9edb728739d2581ef8efa7d5a0c8173884
+  languageName: node
+  linkType: hard
+
 "@types/node@npm:*":
   version: 18.14.0
   resolution: "@types/node@npm:18.14.0"
@@ -8818,6 +8825,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"netmask@npm:2.0.2":
+  version: 2.0.2
+  resolution: "netmask@npm:2.0.2"
+  checksum: c65cb8d3f7ea5669edddb3217e4c96910a60d0d9a4b52d9847ff6b28b2d0277cd8464eee0ef85133cdee32605c57940cacdd04a9a019079b091b6bba4cb0ec22
+  languageName: node
+  linkType: hard
+
 "node-gyp@npm:latest":
   version: 9.3.1
   resolution: "node-gyp@npm:9.3.1"
@@ -12194,6 +12208,7 @@ __metadata:
     "@tanstack/react-query-devtools": 4.35.7
     "@tsconfig/strictest": 2.0.2
     "@tsconfig/vite-react": 2.0.1
+    "@types/netmask": 2.0.3
     "@types/node": 18.18.3
     "@types/ramda": 0.29.5
     "@types/react": 18.2.24
@@ -12218,6 +12233,7 @@ __metadata:
     eslint-plugin-vitest: 0.3.2
     gh-pages: 6.0.0
     jsdom: 22.1.0
+    netmask: 2.0.2
     prettier: 3.0.3
     ramda: 0.29.0
     react: 18.2.0
@@ -12231,6 +12247,7 @@ __metadata:
     vite-plugin-pwa: 0.16.5
     vite-tsconfig-paths: 4.2.1
     vitest: 0.34.6
+    zod: 3.22.4
   languageName: unknown
   linkType: soft
 
@@ -12692,5 +12709,12 @@ __metadata:
   version: 1.0.0
   resolution: "yocto-queue@npm:1.0.0"
   checksum: 2cac84540f65c64ccc1683c267edce396b26b1e931aa429660aefac8fbe0188167b7aee815a3c22fa59a28a58d898d1a2b1825048f834d8d629f4c2a5d443801
+  languageName: node
+  linkType: hard
+
+"zod@npm:3.22.4":
+  version: 3.22.4
+  resolution: "zod@npm:3.22.4"
+  checksum: 80bfd7f8039b24fddeb0718a2ec7c02aa9856e4838d6aa4864335a047b6b37a3273b191ef335bf0b2002e5c514ef261ffcda5a589fb084a48c336ffc4cdbab7f
   languageName: node
   linkType: hard
