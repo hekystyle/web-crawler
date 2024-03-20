@@ -21,7 +21,7 @@
     "@tanstack/eslint-plugin-query": "4.36.0",
     "@tsconfig/strictest": "2.0.2",
     "@tsconfig/vite-react": "2.0.1",
-    "@types/node": "18.18.3",
+    "@types/node": "18.19.26",
     "@types/ramda": "0.29.5",
     "@types/react": "18.2.24",
     "@types/react-dom": "18.2.8",
